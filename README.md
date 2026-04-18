@@ -1,2 +1,9 @@
-# Simple-DSA-Problems
-Solving simple DSA problems in Python.
+# Python-Basic-Programs
+
+This repository contains beginner Python programs such as:
+
+- Even and Odd
+- Divisible by 3
+- Factorial
+- Fibonacci
+- Largest of 3 numbers
