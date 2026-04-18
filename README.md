@@ -2,7 +2,7 @@
 
 This repository contains beginner Python programs such as:
 
-- Even and Odd
+- Even or Odd
 - Divisible by 3
 - Factorial
 - Fibonacci
